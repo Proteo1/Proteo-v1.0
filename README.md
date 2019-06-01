@@ -12,6 +12,7 @@
 Use These Commands on Terminal to Install Proteo v1.0.
 
 #  $ git clone 
+#  $ cd Proteo-v1.0/
 #  $ sudo apt install zenity
 #  $ sudo bash Setup_Proteo.sh
 
