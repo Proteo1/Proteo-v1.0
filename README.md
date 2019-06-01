@@ -1,12 +1,11 @@
 #*******************************************************************************************#
-#                                                                                           #
-#	Proteo V 1.0 : AN INSTALLATION PACKAGE FOR PROTEIN STRUCTURAL PREDICTION            #
-#                                                                                           #
+             Proteo V 1.0 : AN INSTALLATION PACKAGE FOR PROTEIN STRUCTURAL PREDICTION           
+                                                                                         
 #*******************************************************************************************#
-#   Contributors: Fahad Mehmood    (Department of Electrical Engineering,UET Lahore)        #
-#       	  Moeez ur Rehman  (Department of Electrical Engineering,UET Lahore)        #
-#	   	  Hammad 	   (Department of Electrical Engineering,UET Lahore)        #
-#          	  Khizer Arif      (Department of Electrical Engineering,UET Lahore)        #
+  Contributors: Fahad Mehmood    (Department of Electrical Engineering,UET Lahore)        
+       	        Moeez ur Rehman  (Department of Electrical Engineering,UET Lahore)        
+	   	          Hammad 	         (Department of Electrical Engineering,UET Lahore)        
+          	    Khizer Arif      (Department of Electrical Engineering,UET Lahore)        
 #*******************************************************************************************#
 
 
